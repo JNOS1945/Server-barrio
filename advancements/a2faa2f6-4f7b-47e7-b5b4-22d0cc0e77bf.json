@@ -4363,15 +4363,15 @@
     },
     "done": true
   },
-  "vinery:main/wild_harvest": {
-    "criteria": {
-      "white_savanna_grape_seeds": "2025-07-29 00:36:04 -0500"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-07-29 00:14:32 -0500"
+    },
+    "done": true
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "white_savanna_grape_seeds": "2025-07-29 00:36:04 -0500"
     },
     "done": true
   },
