@@ -67,10 +67,12 @@
       "minecraft:dripstone_caves": "2025-07-31 00:59:04 -0500",
       "minecraft:grove": "2025-07-28 21:29:08 -0500",
       "minecraft:jagged_peaks": "2025-07-28 22:04:02 -0500",
+      "minecraft:cold_ocean": "2025-08-01 13:11:42 -0500",
       "minecraft:forest": "2025-07-28 21:32:44 -0500",
       "minecraft:lush_caves": "2025-07-29 20:15:55 -0500",
       "minecraft:desert": "2025-07-28 22:53:58 -0500",
       "minecraft:jungle": "2025-07-29 19:37:19 -0500",
+      "minecraft:ocean": "2025-08-01 13:28:15 -0500",
       "minecraft:warm_ocean": "2025-07-29 21:17:49 -0500",
       "minecraft:deep_lukewarm_ocean": "2025-07-29 19:18:09 -0500",
       "minecraft:frozen_peaks": "2025-07-28 22:17:13 -0500",
@@ -7634,6 +7636,192 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_cutting_board": {
+    "criteria": {
+      "has_warped_planks": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_drawer": {
+    "criteria": {
+      "has_warped_planks": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_crate": {
+    "criteria": {
+      "has_warped_planks": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_shelf": {
+    "criteria": {
+      "has_warped_shelf": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_table": {
+    "criteria": {
+      "has_warped_planks": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_cupboard": {
+    "criteria": {
+      "has_warped_cupboard": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_table": {
+    "criteria": {
+      "has_warped_table": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_cabinetry": {
+    "criteria": {
+      "has_warped_planks": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_nightstand": {
+    "criteria": {
+      "has_warped_nightstand": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_mail_box": {
+    "criteria": {
+      "has_warped_planks": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_bench": {
+    "criteria": {
+      "has_warped_bench": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_fancy_bed": {
+    "criteria": {
+      "has_warped_fancy_bed": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_side_table": {
+    "criteria": {
+      "has_warped_side_table": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_chair": {
+    "criteria": {
+      "has_warped_chair": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_dining_bench": {
+    "criteria": {
+      "has_warped_dining_bench": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_pillar_trim": {
+    "criteria": {
+      "has_warped_pillar_trim": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_desk": {
+    "criteria": {
+      "has_warped_desk": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_corner_trim": {
+    "criteria": {
+      "has_warped_corner_trim": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_drawer": {
+    "criteria": {
+      "has_warped_drawer": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_warped_planks": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_couch": {
+    "criteria": {
+      "has_warped_couch": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_drawer": {
+    "criteria": {
+      "has_warped_planks": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_counter": {
+    "criteria": {
+      "has_warped_counter": "2025-07-31 19:58:37 -0500"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2025-07-31 20:10:12 -0500"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
     "criteria": {
       "has_crimson_planks": "2025-07-31 20:28:58 -0500"
@@ -7643,30 +7831,6 @@
   "handcrafted:recipes/misc/crimson_side_table": {
     "criteria": {
       "has_crimson_side_table": "2025-07-31 20:28:58 -0500"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-07-31 23:09:52 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-07-31 23:40:55 -0500"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-07-31 22:48:04 -0500"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2025-07-31 20:54:46 -0500"
     },
     "done": true
   },
@@ -7688,39 +7852,9 @@
     },
     "done": true
   },
-  "vinery:recipes/fermentation_barrel": {
-    "criteria": {
-      "has_barrel": "2025-07-31 20:10:12 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-07-31 20:28:58 -0500"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/baking/baked_potato": {
-    "criteria": {
-      "has_result": "2025-07-31 23:09:52 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-07-31 23:40:55 -0500"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_cutting_board": {
-    "criteria": {
-      "has_warped_planks": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-07-31 23:16:46 -0500"
     },
     "done": true
   },
@@ -7733,30 +7867,6 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-07-31 20:28:58 -0500"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_drawer": {
-    "criteria": {
-      "has_warped_planks": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-31 23:16:16 -0500"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_crate": {
-    "criteria": {
-      "has_warped_planks": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_shelf": {
-    "criteria": {
-      "has_warped_shelf": "2025-07-31 19:58:37 -0500"
     },
     "done": true
   },
@@ -7784,24 +7894,6 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/make_wayward_compass": {
-    "criteria": {
-      "inscription_table": "2025-07-31 22:43:59 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/heating/baked_potato": {
-    "criteria": {
-      "has_result": "2025-07-31 23:09:52 -0500"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/crimson_fancy_bed": {
     "criteria": {
       "has_crimson_fancy_bed": "2025-07-31 20:28:58 -0500"
@@ -7811,12 +7903,6 @@
   "handcrafted:recipes/misc/crimson_counter": {
     "criteria": {
       "has_crimson_counter": "2025-07-31 20:28:58 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-31 23:16:16 -0500"
     },
     "done": true
   },
@@ -7832,33 +7918,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/warped_table": {
-    "criteria": {
-      "has_warped_planks": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_fence": {
-    "criteria": {
-      "has_planks": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_storage_cabinet": {
     "criteria": {
       "has_crimson_planks": "2025-07-31 20:28:58 -0500"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_cupboard": {
-    "criteria": {
-      "has_warped_cupboard": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_table": {
-    "criteria": {
-      "has_warped_table": "2025-07-31 19:58:37 -0500"
     },
     "done": true
   },
@@ -7868,39 +7930,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_cabinetry": {
-    "criteria": {
-      "has_warped_planks": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_nightstand": {
-    "criteria": {
-      "has_warped_nightstand": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
-    "criteria": {
-      "in_catacombs": "2025-07-31 22:53:50 -0500"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_chair": {
-    "criteria": {
-      "has_warped_planks": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-07-31 20:28:58 -0500"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_mail_box": {
-    "criteria": {
-      "has_warped_planks": "2025-07-31 19:58:37 -0500"
     },
     "done": true
   },
@@ -7910,27 +7942,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-31 23:58:27 -0500"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/crimson_crate": {
     "criteria": {
       "has_crimson_planks": "2025-07-31 20:28:58 -0500"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_bench": {
-    "criteria": {
-      "has_warped_bench": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_fancy_bed": {
-    "criteria": {
-      "has_warped_fancy_bed": "2025-07-31 19:58:37 -0500"
     },
     "done": true
   },
@@ -7940,21 +7954,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/warped_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/crimson_table": {
     "criteria": {
       "has_crimson_table": "2025-07-31 20:28:58 -0500"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_side_table": {
-    "criteria": {
-      "has_warped_side_table": "2025-07-31 19:58:37 -0500"
     },
     "done": true
   },
@@ -7976,123 +7978,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/warped_chair": {
-    "criteria": {
-      "has_warped_chair": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_button": {
-    "criteria": {
-      "has_planks": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_sign": {
-    "criteria": {
-      "has_planks": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/ink_legendary": {
-    "criteria": {
-      "requirement": "2025-07-31 22:29:34 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-07-31 23:37:48 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_door": {
-    "criteria": {
-      "has_planks": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-07-31 23:40:55 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
-    "criteria": {
-      "has_dune_armor_trim_smithing_template": "2025-07-31 23:58:27 -0500"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/crimson_chair": {
     "criteria": {
       "has_crimson_chair": "2025-07-31 20:28:58 -0500"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/warped_dining_bench": {
-    "criteria": {
-      "has_warped_dining_bench": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/stove": {
-    "criteria": {
-      "has_campfire": "2025-07-31 20:54:37 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-31 23:16:16 -0500"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_pillar_trim": {
-    "criteria": {
-      "has_warped_pillar_trim": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_desk": {
-    "criteria": {
-      "has_warped_desk": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_corner_trim": {
-    "criteria": {
-      "has_warped_corner_trim": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-07-31 23:40:55 -0500"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
-    "criteria": {
-      "arcane_anvil": "2025-07-31 21:56:59 -0500"
-    },
-    "done": true
-  },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2025-07-31 23:37:48 -0500"
-    },
-    "done": false
-  },
   "handcrafted:recipes/misc/crimson_bench": {
     "criteria": {
       "has_crimson_bench": "2025-07-31 20:28:58 -0500"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/warped_drawer": {
-    "criteria": {
-      "has_warped_drawer": "2025-07-31 19:58:37 -0500"
     },
     "done": true
   },
@@ -8102,27 +7996,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
-    "criteria": {
-      "requirement": "2025-07-31 23:10:06 -0500"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/crimson_drawer": {
     "criteria": {
       "has_crimson_planks": "2025-07-31 20:28:58 -0500"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_warped_planks": "2025-07-31 19:58:37 -0500"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/stuffed_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-07-31 23:09:52 -0500"
     },
     "done": true
   },
@@ -8132,15 +8008,45 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/warped_couch": {
+  "handcrafted:recipes/misc/crimson_nightstand": {
     "criteria": {
-      "has_warped_couch": "2025-07-31 19:58:37 -0500"
+      "has_crimson_nightstand": "2025-07-31 20:28:58 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+  "farmersdelight:recipes/decorations/stove": {
     "criteria": {
-      "has_polished_andesite": "2025-07-31 23:16:16 -0500"
+      "has_campfire": "2025-07-31 20:54:37 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-07-31 20:54:46 -0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-07-31 21:56:59 -0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-07-31 22:29:34 -0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_wayward_compass": {
+    "criteria": {
+      "inscription_table": "2025-07-31 22:43:59 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-07-31 22:48:04 -0500"
     },
     "done": true
   },
@@ -8150,9 +8056,75 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_drawer": {
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
     "criteria": {
-      "has_warped_planks": "2025-07-31 19:58:37 -0500"
+      "in_catacombs": "2025-07-31 22:53:50 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-07-31 23:09:52 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_result": "2025-07-31 23:09:52 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_result": "2025-07-31 23:09:52 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-07-31 23:09:52 -0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-07-31 23:10:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-31 23:16:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-31 23:16:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-31 23:16:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-31 23:16:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-31 23:16:46 -0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2025-07-31 23:21:23 -0500"
     },
     "done": true
   },
@@ -8162,21 +8134,159 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_nightstand": {
+  "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
-      "has_crimson_nightstand": "2025-07-31 20:28:58 -0500"
+      "has_brick": "2025-07-31 23:37:48 -0500"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/warped_counter": {
+  "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "has_warped_counter": "2025-07-31 19:58:37 -0500"
+      "has_sherd": "2025-07-31 23:37:48 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-31 23:40:55 -0500"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
-      "requirement": "2025-07-31 23:21:23 -0500"
+      "has_smooth_sandstone": "2025-07-31 23:40:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-31 23:40:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-31 23:40:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-31 23:58:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-07-31 23:58:27 -0500"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/comb_cutter_tool": {
+    "criteria": {
+      "comb_cutter_tool": "2025-08-01 12:12:57 -0500"
+    },
+    "done": true
+  },
+  "portablemobs:captureadvancement": {
+    "criteria": {
+      "capture": "2025-08-01 12:52:41 -0500"
+    },
+    "done": true
+  },
+  "artifacts:adventurous_eater": {
+    "criteria": {
+      "eat_artifact": "2025-08-01 13:01:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-08-01 12:38:20 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-08-01 12:38:20 -0500"
+    },
+    "done": true
+  },
+  "portablemobs:basiccelladvancement": {
+    "criteria": {
+      "basiccell": "2025-08-01 12:52:38 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-08-01 12:12:57 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-08-01 14:00:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-08-01 12:38:20 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-01 11:33:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-08-01 12:38:20 -0500"
+    },
+    "done": true
+  },
+  "portablemobs:recipes/misc/master_capture_cell": {
+    "criteria": {
+      "recipe_condition": "2025-08-01 12:52:38 -0500"
+    },
+    "done": true
+  },
+  "portablemobs:mastercelladvancement": {
+    "criteria": {
+      "mastercell": "2025-08-01 13:23:18 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-08-01 12:38:20 -0500"
+    },
+    "done": true
+  },
+  "beautify:botanist_workbench": {
+    "criteria": {
+      "requirement": "2025-08-01 13:58:27 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-08-01 12:12:57 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-08-01 11:33:23 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-08-01 14:08:02 -0500"
     },
     "done": true
   },
