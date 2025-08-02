@@ -50,6 +50,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-28 21:53:23 -0500",
+      "minecraft:old_growth_pine_taiga": "2025-08-02 15:09:02 -0500",
       "minecraft:taiga": "2025-07-28 23:08:03 -0500",
       "minecraft:frozen_river": "2025-07-28 22:53:41 -0500",
       "minecraft:birch_forest": "2025-07-28 21:54:20 -0500",
@@ -70,6 +71,7 @@
       "minecraft:deep_frozen_ocean": "2025-07-28 22:58:23 -0500",
       "minecraft:jungle": "2025-07-28 23:31:01 -0500",
       "minecraft:ocean": "2025-07-28 23:00:49 -0500",
+      "minecraft:old_growth_spruce_taiga": "2025-08-02 15:08:23 -0500",
       "minecraft:warm_ocean": "2025-07-31 23:03:05 -0500",
       "minecraft:frozen_peaks": "2025-07-28 21:51:39 -0500",
       "minecraft:old_growth_birch_forest": "2025-07-28 23:24:35 -0500",
@@ -1909,6 +1911,8 @@
       "cooked_porkchop": "2025-07-28 23:10:43 -0500",
       "cooked_mutton": "2025-07-28 21:54:33 -0500",
       "cooked_beef": "2025-07-28 22:11:35 -0500",
+      "apple": "2025-08-02 14:37:04 -0500",
+      "potato": "2025-08-02 14:47:07 -0500",
       "bread": "2025-07-28 23:24:41 -0500",
       "cooked_rabbit": "2025-07-28 22:56:19 -0500"
     },
@@ -5285,93 +5289,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
-    "criteria": {
-      "has_log": "2025-07-31 23:21:49 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2025-07-31 23:21:49 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-07-31 23:17:24 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-07-31 22:32:49 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-07-31 22:40:18 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-31 23:03:23 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-31 22:56:36 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-07-31 22:22:21 -0500"
-    },
-    "done": true
-  },
   "slashblade_addon:recipes/combat/snow_crow": {
     "criteria": {
       "has_slashblade": "2025-07-31 22:21:39 -0500"
     },
     "done": true
   },
-  "chimes:recipes/decorations/amethyst_chimes": {
-    "criteria": {
-      "has_planks": "2025-07-31 22:56:36 -0500"
-    },
-    "done": true
-  },
   "slashblade:recipes/combat/yuzukitukumo": {
     "criteria": {
       "has_slashblade": "2025-07-31 22:21:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-31 23:16:22 -0500"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
-    "criteria": {
-      "has_dead_bush": "2025-07-31 22:49:40 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-31 22:56:36 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-31 22:56:36 -0500"
     },
     "done": true
   },
@@ -5387,27 +5313,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-07-31 22:22:21 -0500"
-    },
-    "done": true
-  },
   "slashblade_addon:recipes/combat/frosty_cherry": {
     "criteria": {
       "has_slashblade": "2025-07-31 22:21:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-31 23:03:23 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-31 23:03:23 -0500"
     },
     "done": true
   },
@@ -5417,39 +5325,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-07-31 23:16:53 -0500"
-    },
-    "done": true
-  },
   "slashblade_addon:recipes/combat/nihilbx": {
     "criteria": {
       "has_slashblade": "2025-07-31 22:21:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-07-31 23:16:22 -0500"
-    },
-    "done": true
-  },
-  "slashblade:abilities/kick_jump": {
-    "criteria": {
-      "customtrigger": "2025-07-31 22:25:29 -0500"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-07-31 23:00:11 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-07-31 23:03:23 -0500"
     },
     "done": true
   },
@@ -5465,51 +5343,9 @@
     },
     "done": true
   },
-  "slashblade:arts/combo_a": {
-    "criteria": {
-      "customtrigger": "2025-07-31 22:58:36 -0500"
-    },
-    "done": true
-  },
-  "slashblade:arts/combo_b": {
-    "criteria": {
-      "customtrigger": "2025-07-31 23:05:43 -0500"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
-    "criteria": {
-      "in_catacombs": "2025-07-31 22:55:11 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-31 23:03:23 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-07-31 22:40:18 -0500"
-    },
-    "done": true
-  },
   "slashblade_addon:recipes/combat/nihil": {
     "criteria": {
       "has_slashblade": "2025-07-31 22:21:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-31 23:03:23 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-31 23:03:23 -0500"
     },
     "done": true
   },
@@ -5519,39 +5355,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-07-31 23:03:23 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-07-31 23:21:49 -0500"
-    },
-    "done": true
-  },
-  "slashblade:arts/aerial_b": {
-    "criteria": {
-      "customtrigger": "2025-07-31 22:25:35 -0500"
-    },
-    "done": true
-  },
-  "slashblade:arts/aerial_a": {
-    "criteria": {
-      "customtrigger": "2025-07-31 22:25:33 -0500"
-    },
-    "done": true
-  },
   "slashblade_addon:recipes/combat/aquablaze": {
     "criteria": {
       "has_slashblade": "2025-07-31 22:21:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-31 23:03:23 -0500"
     },
     "done": true
   },
@@ -5567,15 +5373,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+  "slashblade_addon:recipes/combat/frost_wolf": {
     "criteria": {
-      "has_polished_andesite": "2025-07-31 23:16:22 -0500"
+      "has_slashblade": "2025-07-31 22:21:39 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_stone_bricks": "2025-07-31 23:03:23 -0500"
+      "has_poppy": "2025-07-31 22:22:21 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-31 22:22:21 -0500"
+    },
+    "done": true
+  },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2025-07-31 22:25:29 -0500"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-07-31 22:25:33 -0500"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-07-31 22:25:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-31 22:32:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-31 22:40:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-31 22:40:18 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/stick_from_dead_bush": {
+    "criteria": {
+      "has_dead_bush": "2025-07-31 22:49:40 -0500"
     },
     "done": true
   },
@@ -5585,9 +5439,39 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "requirement": "2025-07-31 23:11:53 -0500"
+      "has_raw_iron_block": "2025-07-31 22:54:06 -0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-07-31 22:55:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-31 22:56:36 -0500"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/amethyst_chimes": {
+    "criteria": {
+      "has_planks": "2025-07-31 22:56:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-31 22:56:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-31 22:56:36 -0500"
     },
     "done": true
   },
@@ -5597,15 +5481,117 @@
     },
     "done": true
   },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2025-07-31 22:58:36 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-31 23:00:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-31 23:03:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-31 23:03:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-31 23:03:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-31 23:03:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-31 23:03:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-31 23:03:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-31 23:03:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-31 23:03:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-31 23:03:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-31 23:03:23 -0500"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_b": {
+    "criteria": {
+      "customtrigger": "2025-07-31 23:05:43 -0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-07-31 23:11:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-31 23:16:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-31 23:16:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-31 23:16:22 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-07-31 23:16:22 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_raw_iron_block": "2025-07-31 22:54:06 -0500"
+      "has_iron_block": "2025-07-31 23:16:53 -0500"
     },
     "done": true
   },
@@ -5615,15 +5601,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-31 23:17:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-07-31 23:21:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-07-31 23:21:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-31 23:21:49 -0500"
+    },
+    "done": true
+  },
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2025-07-31 23:32:35 -0500"
     },
     "done": true
   },
-  "slashblade_addon:recipes/combat/frost_wolf": {
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_slashblade": "2025-07-31 22:21:39 -0500"
+      "has_smithing_trim_template": "2025-08-02 14:40:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-08-02 14:40:22 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-02 14:52:27 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-08-02 15:00:31 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-08-02 15:00:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-08-02 15:06:07 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-08-02 15:06:07 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-02 14:52:27 -0500"
     },
     "done": true
   },
