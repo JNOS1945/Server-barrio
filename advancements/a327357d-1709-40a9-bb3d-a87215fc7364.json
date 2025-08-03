@@ -60,7 +60,9 @@
       "minecraft:sparse_jungle": "2025-07-28 23:32:00 -0500",
       "minecraft:river": "2025-07-28 22:39:36 -0500",
       "minecraft:stony_shore": "2025-07-28 22:56:58 -0500",
+      "minecraft:snowy_plains": "2025-08-02 20:32:01 -0500",
       "minecraft:dripstone_caves": "2025-07-28 23:34:22 -0500",
+      "minecraft:snowy_taiga": "2025-08-02 18:58:21 -0500",
       "minecraft:grove": "2025-07-28 21:51:22 -0500",
       "minecraft:jagged_peaks": "2025-07-28 22:10:54 -0500",
       "minecraft:cold_ocean": "2025-07-28 22:57:08 -0500",
@@ -72,6 +74,7 @@
       "minecraft:jungle": "2025-07-28 23:31:01 -0500",
       "minecraft:ocean": "2025-07-28 23:00:49 -0500",
       "minecraft:old_growth_spruce_taiga": "2025-08-02 15:08:23 -0500",
+      "minecraft:snowy_beach": "2025-08-02 18:58:50 -0500",
       "minecraft:warm_ocean": "2025-07-31 23:03:05 -0500",
       "minecraft:frozen_peaks": "2025-07-28 21:51:39 -0500",
       "minecraft:old_growth_birch_forest": "2025-07-28 23:24:35 -0500",
@@ -94,18 +97,22 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-08-02 19:55:00 -0500",
       "woodland": "2025-07-28 23:17:20 -0500",
       "shrubland": "2025-07-28 22:35:32 -0500",
+      "snowblossom_grove": "2025-08-02 19:55:47 -0500",
       "rocky_shrubland": "2025-07-28 22:35:43 -0500",
       "highland": "2025-07-28 21:41:58 -0500",
       "jade_cliffs": "2025-07-28 21:52:49 -0500",
       "clover_patch": "2025-07-28 22:42:08 -0500",
+      "cold_desert": "2025-08-02 18:59:51 -0500",
       "maple_woods": "2025-07-28 23:08:09 -0500",
       "field": "2025-07-28 22:46:10 -0500",
       "lavender_forest": "2025-07-28 23:13:27 -0500",
       "moor": "2025-07-28 22:37:42 -0500",
       "coniferous_forest": "2025-07-28 22:46:23 -0500",
       "spider_nest": "2025-07-28 23:35:51 -0500",
+      "dryland": "2025-08-02 20:49:45 -0500",
       "seasonal_forest": "2025-07-28 23:06:57 -0500",
       "volcano": "2025-07-28 23:18:10 -0500",
       "rocky_rainforest": "2025-07-28 23:36:30 -0500",
@@ -113,6 +120,7 @@
       "grassland": "2025-07-28 22:39:06 -0500",
       "snowy_coniferous_forest": "2025-07-28 22:53:46 -0500",
       "snowy_fir_clearing": "2025-07-28 22:53:40 -0500",
+      "tundra": "2025-08-02 20:14:19 -0500",
       "glowing_grotto": "2025-07-30 21:13:38 -0500",
       "rainforest": "2025-07-28 23:35:44 -0500",
       "crag": "2025-07-28 21:42:09 -0500",
@@ -1914,7 +1922,9 @@
       "apple": "2025-08-02 14:37:04 -0500",
       "potato": "2025-08-02 14:47:07 -0500",
       "bread": "2025-07-28 23:24:41 -0500",
-      "cooked_rabbit": "2025-07-28 22:56:19 -0500"
+      "cookie": "2025-08-02 19:52:08 -0500",
+      "cooked_rabbit": "2025-07-28 22:56:19 -0500",
+      "cooked_chicken": "2025-08-02 19:52:55 -0500"
     },
     "done": false
   },
@@ -3901,6 +3911,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-30 20:52:22 -0500",
+      "minecraft:vindicator": "2025-08-02 19:58:32 -0500",
       "minecraft:spider": "2025-07-30 20:48:57 -0500",
       "minecraft:creeper": "2025-07-31 21:20:05 -0500",
       "minecraft:enderman": "2025-07-31 21:24:11 -0500",
@@ -5649,15 +5660,21 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+  "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
-      "has_diamond_backpack": "2025-08-02 15:00:31 -0500"
+      "has_cooked_chicken": "2025-08-02 14:52:27 -0500"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-08-02 15:00:10 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-08-02 15:00:31 -0500"
     },
     "done": true
   },
@@ -5673,9 +5690,279 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/chicken_sandwich": {
+  "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
-      "has_cooked_chicken": "2025-08-02 14:52:27 -0500"
+      "has_melon_slice": "2025-08-02 19:16:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-02 19:02:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-08-02 19:40:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-02 19:02:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-02 19:50:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2025-08-02 20:16:38 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-02 19:39:21 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-08-02 19:16:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_the_recipe": "2025-08-02 19:44:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-02 20:00:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-08-02 19:30:03 -0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-08-02 19:01:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-08-02 19:28:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-02 19:02:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-08-02 20:31:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-02 19:16:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-08-02 19:28:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-08-02 20:51:08 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-08-02 19:16:59 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-08-02 20:21:28 -0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-08-02 19:01:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-02 19:39:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-02 19:16:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-08-02 20:16:38 -0500"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/bamboo_chimes": {
+    "criteria": {
+      "has_planks": "2025-08-02 20:09:50 -0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-08-02 19:01:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-02 19:02:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-08-02 19:24:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-08-02 19:40:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-02 19:02:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-02 19:16:25 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-08-02 19:47:14 -0500"
+    },
+    "done": true
+  },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2025-08-02 19:28:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-02 19:02:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-08-02 20:16:38 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-08-02 20:21:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-08-02 19:40:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-02 19:50:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-02 20:00:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-08-02 19:40:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-08-02 19:02:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-08-02 20:09:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-02 19:50:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-08-02 20:09:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-08-02 20:09:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-02 20:00:35 -0500"
     },
     "done": true
   },

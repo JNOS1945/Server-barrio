@@ -77,6 +77,7 @@
       "minecraft:frozen_ocean": "2025-08-02 02:49:55 -0500",
       "minecraft:desert": "2025-07-30 11:02:40 -0500",
       "minecraft:deep_frozen_ocean": "2025-08-02 02:49:59 -0500",
+      "minecraft:windswept_forest": "2025-08-02 20:29:43 -0500",
       "minecraft:jungle": "2025-07-30 01:30:36 -0500",
       "minecraft:ocean": "2025-07-30 00:06:00 -0500",
       "minecraft:snowy_beach": "2025-08-02 03:08:38 -0500",
@@ -1588,6 +1589,7 @@
       "dead_forest": "2025-08-02 03:08:40 -0500",
       "volcano": "2025-08-02 14:28:32 -0500",
       "rocky_rainforest": "2025-08-02 14:28:48 -0500",
+      "pasture": "2025-08-02 20:25:38 -0500",
       "volcanic_plains": "2025-08-02 14:28:26 -0500",
       "lavender_field": "2025-07-30 00:12:21 -0500",
       "pumpkin_patch": "2025-08-02 03:41:34 -0500",
@@ -1599,7 +1601,8 @@
       "undergrowth": "2025-07-31 01:14:30 -0500",
       "rainforest": "2025-07-30 01:30:21 -0500",
       "crag": "2025-07-29 22:18:26 -0500",
-      "snowy_maple_woods": "2025-08-02 03:08:41 -0500"
+      "snowy_maple_woods": "2025-08-02 03:08:41 -0500",
+      "ominous_woods": "2025-08-02 19:36:41 -0500"
     },
     "done": false
   },
@@ -9430,6 +9433,54 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-08-02 14:39:06 -0500"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/upper_bone_staff": {
+    "criteria": {
+      "upper_bone_staff": "2025-08-02 19:34:52 -0500"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/lich_prison": {
+    "criteria": {
+      "lich_prison": "2025-08-02 19:37:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-08-02 19:42:31 -0500"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/find_skeleton": {
+    "criteria": {
+      "skeleton": "2025-08-02 19:47:15 -0500"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/lower_bone_staff": {
+    "criteria": {
+      "lower_bone_staff": "2025-08-02 20:00:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-08-02 20:24:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-02 20:24:13 -0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2025-08-02 20:44:22 -0500"
     },
     "done": true
   },
