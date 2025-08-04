@@ -43,18 +43,27 @@
   },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
-      "bumbling_beepartments": "2025-07-28 20:57:18 -0500"
+      "floral_meadow": "2025-08-03 22:44:25 -0500",
+      "pollinated_pillar": "2025-08-03 23:21:40 -0500",
+      "crystal_canyon": "2025-08-03 23:06:51 -0500",
+      "sugar_water_floor": "2025-08-03 23:01:16 -0500",
+      "hive_pillar": "2025-08-03 23:15:31 -0500",
+      "hive_wall": "2025-08-03 23:04:04 -0500",
+      "bumbling_beepartments": "2025-07-28 20:57:18 -0500",
+      "pollinated_fields": "2025-08-03 23:08:10 -0500"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-28 22:15:31 -0500",
       "minecraft:taiga": "2025-07-28 21:44:44 -0500",
+      "minecraft:deep_ocean": "2025-08-03 21:31:27 -0500",
       "minecraft:eroded_badlands": "2025-07-29 15:29:34 -0500",
       "minecraft:frozen_river": "2025-07-29 23:49:57 -0500",
       "minecraft:birch_forest": "2025-07-28 21:50:00 -0500",
       "minecraft:wooded_badlands": "2025-07-28 22:57:35 -0500",
+      "minecraft:bamboo_jungle": "2025-08-04 00:02:36 -0500",
       "minecraft:badlands": "2025-07-28 22:57:43 -0500",
       "minecraft:beach": "2025-07-28 22:11:06 -0500",
       "minecraft:dark_forest": "2025-07-28 22:10:09 -0500",
@@ -71,6 +80,7 @@
       "minecraft:forest": "2025-07-28 21:32:44 -0500",
       "minecraft:lush_caves": "2025-07-29 20:15:55 -0500",
       "minecraft:deep_cold_ocean": "2025-08-02 18:26:30 -0500",
+      "minecraft:ice_spikes": "2025-08-04 00:11:23 -0500",
       "minecraft:frozen_ocean": "2025-08-02 02:51:34 -0500",
       "minecraft:desert": "2025-07-28 22:53:58 -0500",
       "minecraft:deep_frozen_ocean": "2025-08-02 02:51:25 -0500",
@@ -1527,6 +1537,7 @@
       "fir_clearing": "2025-07-28 22:21:10 -0500",
       "pumpkin_patch": "2025-07-29 23:30:59 -0500",
       "grassland": "2025-07-29 23:20:32 -0500",
+      "prairie": "2025-08-03 21:32:17 -0500",
       "snowy_coniferous_forest": "2025-07-29 23:51:02 -0500",
       "snowy_fir_clearing": "2025-07-29 23:51:05 -0500",
       "tundra": "2025-08-02 18:33:53 -0500",
@@ -1747,8 +1758,11 @@
       "cooked_mutton": "2025-07-28 21:44:43 -0500",
       "cooked_beef": "2025-07-30 22:13:21 -0500",
       "bread": "2025-07-28 21:58:22 -0500",
+      "golden_apple": "2025-08-04 00:52:01 -0500",
       "rotten_flesh": "2025-07-31 03:11:38 -0500",
+      "golden_carrot": "2025-08-04 00:14:28 -0500",
       "cooked_chicken": "2025-08-01 20:38:36 -0500",
+      "enchanted_golden_apple": "2025-08-04 00:37:29 -0500",
       "mushroom_stew": "2025-07-28 21:36:38 -0500"
     },
     "done": false
@@ -1862,10 +1876,13 @@
       "minecraft:witch": "2025-07-31 03:01:43 -0500",
       "minecraft:wither_skeleton": "2025-07-29 22:43:23 -0500",
       "minecraft:husk": "2025-07-29 21:30:12 -0500",
+      "minecraft:ender_dragon": "2025-08-04 00:21:14 -0500",
       "minecraft:shulker": "2025-08-02 21:19:24 -0500",
       "minecraft:cave_spider": "2025-07-28 23:38:33 -0500",
       "minecraft:piglin": "2025-07-29 22:32:04 -0500",
       "minecraft:enderman": "2025-07-29 19:43:45 -0500",
+      "minecraft:silverfish": "2025-08-03 23:40:01 -0500",
+      "minecraft:endermite": "2025-08-03 23:40:21 -0500",
       "minecraft:vex": "2025-07-30 00:27:50 -0500",
       "minecraft:zombie": "2025-07-28 23:25:43 -0500",
       "minecraft:drowned": "2025-07-31 00:00:32 -0500",
@@ -9044,21 +9061,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-02 19:59:30 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-08-02 18:29:29 -0500"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
-    "criteria": {
-      "requirement": "2025-08-02 20:16:07 -0500"
     },
     "done": true
   },
@@ -9074,37 +9079,13 @@
     },
     "done": true
   },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2025-08-02 21:14:28 -0500"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-08-02 21:23:11 -0500"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2025-08-02 21:10:21 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2025-08-02 21:21:10 -0500"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-08-02 21:10:48 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-08-02 18:29:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
     "criteria": {
       "has_oxidized_copper": "2025-08-02 18:29:29 -0500"
     },
@@ -9116,15 +9097,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/beacon": {
+  "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
-      "has_nether_star": "2025-08-02 20:54:17 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_copper": "2025-08-02 18:29:29 -0500"
+      "has_any_ingredient": "2025-08-02 19:59:30 -0500"
     },
     "done": true
   },
@@ -9134,9 +9109,33 @@
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
+  "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
-      "in_city": "2025-08-02 21:19:19 -0500"
+      "has_wither_skeleton_skull": "2025-08-02 20:04:25 -0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2025-08-02 20:16:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-08-02 20:54:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-08-02 21:10:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-08-02 21:10:48 -0500"
     },
     "done": true
   },
@@ -9146,9 +9145,526 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "minecraft:end/enter_end_gateway": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-08-02 20:04:25 -0500"
+      "entered_end_gateway": "2025-08-02 21:14:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-08-02 21:19:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-08-02 21:21:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-08-02 21:23:11 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_corner_trim": {
+    "criteria": {
+      "has_deepslate_corner_trim": "2025-08-03 17:23:45 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/deepslate_stepping_stones": {
+    "criteria": {
+      "has_deepslate": "2025-08-03 17:23:45 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_pillar_trim": {
+    "criteria": {
+      "has_deepslate_pillar_trim": "2025-08-03 17:23:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-08-03 17:24:14 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-08-03 20:48:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-03 21:44:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-03 21:44:03 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-03 21:44:03 -0500"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-08-03 22:12:48 -0500"
+    },
+    "done": true
+  },
+  "call_of_yucutan:obtain_both_discs": {
+    "criteria": {
+      "awake": "2025-08-03 22:51:45 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_evoker_trophy": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_pillager_trophy": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_stone_corner_trim": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_witch_trophy": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_stone_pillar_trim": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/arrow_slits_gothic": {
+    "criteria": {
+      "has_wood": "2025-08-03 22:54:10 -0500"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-08-03 23:01:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-08-03 23:01:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-08-03 23:01:38 -0500"
+    },
+    "done": true
+  },
+  "the_bumblezone:armor/craft_flower_headwear": {
+    "criteria": {
+      "obtain_flower_headwear": "2025-08-03 23:02:10 -0500"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_goliath_honey_fountain": "2025-08-03 23:15:06 -0500",
+      "in_mite_fortress": "2025-08-03 23:39:34 -0500",
+      "in_pirate_ship": "2025-08-03 23:04:06 -0500",
+      "in_cherry_veteran_tree": "2025-08-03 23:03:23 -0500",
+      "in_subway": "2025-08-03 23:33:21 -0500",
+      "in_honey_cave_room": "2025-08-03 23:22:02 -0500",
+      "in_pollinated_stream": "2025-08-03 23:08:12 -0500",
+      "in_cell_maze": "2025-08-03 23:08:40 -0500",
+      "in_gazebuzz_cluster": "2025-08-03 23:17:20 -0500",
+      "in_phantasm_aviary": "2025-08-03 23:34:58 -0500",
+      "in_throne_pillar": "2025-08-03 23:29:23 -0500"
+    },
+    "done": false
+  },
+  "the_bumblezone:honey_bucket/obtain_honey_bucket": {
+    "criteria": {
+      "obtain_honey_bucket": "2025-08-03 23:04:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-08-03 23:04:13 -0500"
+    },
+    "done": true
+  },
+  "the_bumblezone:tools/craft_honey_compass": {
+    "criteria": {
+      "obtain_honey_compass": "2025-08-03 23:05:10 -0500"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_cell_maze": {
+    "criteria": {
+      "in_cell_maze": "2025-08-03 23:08:40 -0500"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-08-03 23:09:01 -0500"
+    },
+    "done": true
+  },
+  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
+    "criteria": {
+      "strong_hidden": "2025-08-03 23:09:21 -0500"
+    },
+    "done": true
+  },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2025-08-03 23:22:13 -0500"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2025-08-03 23:22:13 -0500"
+    },
+    "done": true
+  },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2025-08-03 23:22:13 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
+    "criteria": {
+      "has_honeycomb_block": "2025-08-03 23:23:12 -0500"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/carve_carvable_wax": {
+    "criteria": {
+      "carve_wax_6": "2025-08-03 23:26:13 -0500",
+      "carve_wax_5": "2025-08-03 23:26:12 -0500",
+      "carve_wax_8": "2025-08-03 23:26:14 -0500",
+      "carve_wax_7": "2025-08-03 23:26:14 -0500"
+    },
+    "done": false
+  },
+  "the_bumblezone:tools/honey_compass_use": {
+    "criteria": {
+      "honey_compass": "2025-08-03 23:26:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-08-03 23:27:52 -0500"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2025-08-03 23:29:23 -0500"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_out_of_bumblezone": {
+    "criteria": {
+      "teleport_out_of_bumblezone": "2025-08-03 23:32:37 -0500"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/obtain_glistering_honey_crystal_block": {
+    "criteria": {
+      "obtain_glistering_honey_crystal_block": "2025-08-03 23:33:22 -0500"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-08-03 23:34:16 -0500"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_maxed_honey_crystal_shield": {
+    "criteria": {
+      "obtain_maxed_honey_crystal_shield": "2025-08-03 23:34:16 -0500"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-08-04 00:25:55 -0500"
+    },
+    "done": true
+  },
+  "call_of_yucutan:interact_with_mirror": {
+    "criteria": {
+      "interact_with_mirror_0": "2025-08-04 00:04:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-08-03 23:41:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-08-04 00:33:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-04 00:33:45 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-08-04 00:30:59 -0500"
+    },
+    "done": true
+  },
+  "call_of_yucutan:get_burnt_by_light": {
+    "criteria": {
+      "get_burnt_by_light_0": "2025-08-04 00:04:33 -0500"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-08-04 00:33:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-04 00:33:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-08-04 00:33:45 -0500"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-08-04 00:39:11 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-08-04 00:07:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-08-04 00:33:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-08-04 00:21:14 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-08-03 23:41:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-08-04 00:33:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-08-04 00:33:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-08-04 00:33:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-08-04 00:33:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-08-04 00:18:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-08-03 23:40:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-04 00:33:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-08-04 00:33:45 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-08-04 00:30:59 -0500"
     },
     "done": true
   },
