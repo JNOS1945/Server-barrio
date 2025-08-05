@@ -10765,15 +10765,33 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/yellow_kitchen_sink_from_dyeing": {
+  "minecraft:nether/create_full_beacon": {
     "criteria": {
-      "has_dye": "2025-08-04 17:47:45 -0500"
+      "beacon": "2025-08-04 17:43:55 -0500"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/orange_lamp_from_dyeing": {
+  "minecraft:nether/create_beacon": {
     "criteria": {
-      "has_dye": "2025-08-04 17:48:32 -0500"
+      "beacon": "2025-08-04 17:43:55 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-04 17:47:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-04 17:47:22 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-04 17:47:45 -0500"
     },
     "done": true
   },
@@ -10783,39 +10801,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/orange_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-08-04 17:48:32 -0500"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/orange_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-08-04 17:48:32 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2025-08-04 17:47:45 -0500"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/orange_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-08-04 17:48:32 -0500"
-    },
-    "done": true
-  },
-  "minecraft:nether/create_full_beacon": {
-    "criteria": {
-      "beacon": "2025-08-04 17:43:55 -0500"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-08-04 17:47:22 -0500"
     },
     "done": true
   },
@@ -10831,21 +10819,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-08-04 17:48:32 -0500"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/yellow_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-08-04 17:47:45 -0500"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_bath": {
-    "criteria": {
-      "has_orange_dye": "2025-08-04 17:48:32 -0500"
     },
     "done": true
   },
@@ -10867,39 +10843,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-08-04 17:47:22 -0500"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_sink": {
-    "criteria": {
-      "has_orange_dye": "2025-08-04 17:48:32 -0500"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
     "criteria": {
       "has_yellow_dye": "2025-08-04 17:47:45 -0500"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_orange_dye": "2025-08-04 17:48:32 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_candle": {
-    "criteria": {
-      "has_orange_dye": "2025-08-04 17:48:32 -0500"
-    },
-    "done": true
-  },
-  "minecraft:nether/create_beacon": {
-    "criteria": {
-      "beacon": "2025-08-04 17:43:55 -0500"
     },
     "done": true
   },
@@ -10909,33 +10855,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-08-04 17:48:32 -0500"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/yellow_bowl": {
     "criteria": {
       "has_yellow_bowl": "2025-08-04 17:47:45 -0500"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/orange_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-08-04 17:48:32 -0500"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_drawer": {
     "criteria": {
       "has_yellow_dye": "2025-08-04 17:47:45 -0500"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/orange_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-08-04 17:48:32 -0500"
     },
     "done": true
   },
@@ -10957,18 +10885,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_drawer": {
-    "criteria": {
-      "has_orange_dye": "2025-08-04 17:48:32 -0500"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/orange_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-08-04 17:48:32 -0500"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/yellow_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-08-04 17:47:45 -0500"
@@ -10987,27 +10903,123 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_cabinetry": {
-    "criteria": {
-      "has_orange_dye": "2025-08-04 17:48:32 -0500"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_sink": {
     "criteria": {
       "has_yellow_dye": "2025-08-04 17:47:45 -0500"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/orange_trampoline_from_dyeing": {
+  "handcrafted:recipes/misc/yellow_plate": {
+    "criteria": {
+      "has_yellow_plate": "2025-08-04 17:47:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-04 17:47:45 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-04 17:47:45 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-08-04 17:48:32 -0500"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/yellow_plate": {
+  "refurbished_furniture:recipes/decorations/orange_kitchen_cabinetry_from_dyeing": {
     "criteria": {
-      "has_yellow_plate": "2025-08-04 17:47:45 -0500"
+      "has_dye": "2025-08-04 17:48:32 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-04 17:48:32 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-04 17:48:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-04 17:48:32 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_bath": {
+    "criteria": {
+      "has_orange_dye": "2025-08-04 17:48:32 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_sink": {
+    "criteria": {
+      "has_orange_dye": "2025-08-04 17:48:32 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_orange_dye": "2025-08-04 17:48:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-08-04 17:48:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-04 17:48:32 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-04 17:48:32 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-04 17:48:32 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_drawer": {
+    "criteria": {
+      "has_orange_dye": "2025-08-04 17:48:32 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-04 17:48:32 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_cabinetry": {
+    "criteria": {
+      "has_orange_dye": "2025-08-04 17:48:32 -0500"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-04 17:48:32 -0500"
     },
     "done": true
   },
@@ -11023,21 +11035,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_yellow_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-08-04 17:47:45 -0500"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/orange_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-08-04 17:48:32 -0500"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/yellow_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-08-04 17:47:45 -0500"
     },
     "done": true
   },
