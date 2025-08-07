@@ -9524,9 +9524,21 @@
     },
     "done": true
   },
-  "cataclysm:find_ruined_citadel": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "citadel": "2025-08-04 00:25:55 -0500"
+      "has_raw_iron_block": "2025-08-03 23:40:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-08-03 23:41:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-08-03 23:41:04 -0500"
     },
     "done": true
   },
@@ -9536,9 +9548,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "call_of_yucutan:get_burnt_by_light": {
     "criteria": {
-      "has_emerald_block": "2025-08-03 23:41:04 -0500"
+      "get_burnt_by_light_0": "2025-08-04 00:04:33 -0500"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-08-04 00:07:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-08-04 00:18:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-08-04 00:21:14 -0500"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-08-04 00:25:55 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-08-04 00:30:59 -0500"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-08-04 00:30:59 -0500"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-08-04 00:33:07 -0500"
     },
     "done": true
   },
@@ -9554,24 +9608,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
-    "criteria": {
-      "has_pickup_upgrade": "2025-08-04 00:30:59 -0500"
-    },
-    "done": true
-  },
-  "call_of_yucutan:get_burnt_by_light": {
-    "criteria": {
-      "get_burnt_by_light_0": "2025-08-04 00:04:33 -0500"
-    },
-    "done": true
-  },
-  "cataclysm:kill_ender_golem": {
-    "criteria": {
-      "endergolem": "2025-08-04 00:33:07 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-08-04 00:33:45 -0500"
@@ -9584,33 +9620,9 @@
     },
     "done": true
   },
-  "cataclysm:kill_ender_guardian": {
-    "criteria": {
-      "enderguardian": "2025-08-04 00:39:11 -0500"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-08-04 00:07:31 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-08-04 00:33:45 -0500"
-    },
-    "done": true
-  },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2025-08-04 00:21:14 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-08-03 23:41:02 -0500"
     },
     "done": true
   },
@@ -9638,18 +9650,6 @@
     },
     "done": true
   },
-  "minecraft:end/respawn_dragon": {
-    "criteria": {
-      "summoned_dragon": "2025-08-04 00:18:04 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-08-03 23:40:58 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-08-04 00:33:45 -0500"
@@ -9662,9 +9662,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+  "cataclysm:kill_ender_guardian": {
     "criteria": {
-      "has_pickup_upgrade": "2025-08-04 00:30:59 -0500"
+      "enderguardian": "2025-08-04 00:39:11 -0500"
     },
     "done": true
   },
