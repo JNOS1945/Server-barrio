@@ -56,6 +56,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-08-06 20:36:19 -0500",
       "minecraft:taiga": "2025-08-02 03:41:23 -0500",
       "minecraft:deep_ocean": "2025-07-31 20:06:51 -0500",
       "minecraft:eroded_badlands": "2025-07-31 21:27:54 -0500",
@@ -11043,15 +11044,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+  "alexscaves:alexscaves/cave_codex": {
     "criteria": {
-      "has_mud_bricks": "2025-08-06 19:25:44 -0500"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_corrodent": {
-    "criteria": {
-      "killed": "2025-08-06 19:19:58 -0500"
+      "cave_codex": "2025-08-06 18:39:12 -0500"
     },
     "done": true
   },
@@ -11061,39 +11056,33 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_gloomoth": {
-    "criteria": {
-      "killed": "2025-08-06 19:20:42 -0500"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
       "discover": "2025-08-06 18:56:49 -0500"
     },
     "done": true
   },
-  "alexscaves:alexscaves/guano": {
+  "alexscaves:alexscaves/defeat_brainiac": {
     "criteria": {
-      "guano": "2025-08-06 19:27:28 -0500"
+      "killed": "2025-08-06 18:58:08 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+  "alexscaves:alexscaves/defeat_nucleeper": {
     "criteria": {
-      "has_deepslate_gold_ore": "2025-08-06 19:16:49 -0500"
+      "killed": "2025-08-06 18:59:24 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+  "alexscaves:alexscaves/toxic_paste": {
     "criteria": {
-      "has_mud_bricks": "2025-08-06 19:25:44 -0500"
+      "toxic_paste": "2025-08-06 19:01:21 -0500"
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_codex": {
+  "alexscaves:alexscaves/sulfur_dust": {
     "criteria": {
-      "cave_codex": "2025-08-06 18:39:12 -0500"
+      "sulfur_dust": "2025-08-06 19:02:24 -0500"
     },
     "done": true
   },
@@ -11103,9 +11092,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
     "criteria": {
-      "has_mud_bricks": "2025-08-06 19:25:44 -0500"
+      "has_deepslate_gold_ore": "2025-08-06 19:16:49 -0500"
     },
     "done": true
   },
@@ -11121,9 +11110,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-08-06 19:17:51 -0500"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-08-06 19:19:24 -0500"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2025-08-06 19:19:58 -0500"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2025-08-06 19:20:42 -0500"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_underzealot": {
     "criteria": {
       "killed_by_underzealot": "2025-08-06 19:20:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-06 19:25:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-06 19:25:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-06 19:25:44 -0500"
     },
     "done": true
   },
@@ -11139,45 +11170,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
-    "criteria": {
-      "has_deepslate_redstone_ore": "2025-08-06 19:17:51 -0500"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_forlorn_hollows": {
-    "criteria": {
-      "discover": "2025-08-06 19:19:24 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mud_brick_slab": {
     "criteria": {
       "has_mud_bricks": "2025-08-06 19:25:44 -0500"
     },
     "done": true
   },
-  "alexscaves:alexscaves/sulfur_dust": {
+  "alexscaves:alexscaves/guano": {
     "criteria": {
-      "sulfur_dust": "2025-08-06 19:02:24 -0500"
+      "guano": "2025-08-06 19:27:28 -0500"
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_nucleeper": {
+  "alexscaves:alexscaves/underzealot_sacrifice": {
     "criteria": {
-      "killed": "2025-08-06 18:59:24 -0500"
+      "underzealot_sacrifice": "2025-08-06 20:06:18 -0500"
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_brainiac": {
+  "alexscaves:alexscaves/defeat_watcher": {
     "criteria": {
-      "killed": "2025-08-06 18:58:08 -0500"
+      "killed": "2025-08-06 20:06:35 -0500"
     },
     "done": true
   },
-  "alexscaves:alexscaves/toxic_paste": {
+  "graveyard:graveyard/medium_graveyard": {
     "criteria": {
-      "toxic_paste": "2025-08-06 19:01:21 -0500"
+      "medium_graveyard": "2025-08-06 20:31:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-08-06 20:31:56 -0500"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/middle_bone_staff": {
+    "criteria": {
+      "middle_bone_staff": "2025-08-06 20:33:58 -0500"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dead_tree": {
+    "criteria": {
+      "dead_tree": "2025-08-06 20:34:43 -0500"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-08-06 20:40:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2025-08-06 21:49:33 -0500"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-08-06 21:05:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2025-08-06 21:49:33 -0500"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-08-06 20:51:17 -0500"
     },
     "done": true
   },
