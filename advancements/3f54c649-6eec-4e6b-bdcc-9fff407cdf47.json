@@ -65,6 +65,7 @@
       "minecraft:bamboo_jungle": "2025-07-30 01:30:52 -0500",
       "minecraft:wooded_badlands": "2025-07-30 11:02:39 -0500",
       "minecraft:badlands": "2025-07-31 21:17:20 -0500",
+      "minecraft:savanna_plateau": "2025-08-06 19:11:39 -0500",
       "minecraft:beach": "2025-07-30 00:12:28 -0500",
       "minecraft:dark_forest": "2025-07-30 01:25:14 -0500",
       "minecraft:sparse_jungle": "2025-07-30 11:08:28 -0500",
@@ -1594,6 +1595,7 @@
       "old_growth_dead_forest": "2025-08-02 03:40:49 -0500",
       "redwood_forest": "2025-07-30 20:41:38 -0500",
       "visceral_heap": "2025-07-30 20:48:34 -0500",
+      "wasteland_steppe": "2025-08-06 19:10:26 -0500",
       "seasonal_orchard": "2025-08-02 03:41:35 -0500",
       "dune_beach": "2025-07-30 00:05:54 -0500",
       "seasonal_forest": "2025-08-02 03:41:32 -0500",
@@ -11038,6 +11040,144 @@
   "refurbished_furniture:recipes/decorations/orange_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_dye": "2025-08-04 17:48:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-06 19:25:44 -0500"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2025-08-06 19:19:58 -0500"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-08-06 18:49:26 -0500"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2025-08-06 19:20:42 -0500"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-08-06 18:56:49 -0500"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2025-08-06 19:27:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-08-06 19:16:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-06 19:25:44 -0500"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-08-06 18:39:12 -0500"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-08-06 19:04:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-06 19:25:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-08-06 19:16:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-08-06 19:17:51 -0500"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2025-08-06 19:20:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-06 19:25:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-06 19:25:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-08-06 19:17:51 -0500"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2025-08-06 19:19:24 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-08-06 19:25:44 -0500"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-08-06 19:02:24 -0500"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-08-06 18:59:24 -0500"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-08-06 18:58:08 -0500"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2025-08-06 19:01:21 -0500"
     },
     "done": true
   },
