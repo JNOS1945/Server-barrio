@@ -57,6 +57,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-08-06 20:36:19 -0500",
+      "minecraft:mushroom_fields": "2025-08-09 15:08:02 -0500",
       "minecraft:taiga": "2025-08-02 03:41:23 -0500",
       "minecraft:deep_ocean": "2025-07-31 20:06:51 -0500",
       "minecraft:eroded_badlands": "2025-07-31 21:27:54 -0500",
@@ -11224,9 +11225,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+  "cataclysm:kill_maledictus": {
     "criteria": {
-      "has_deepslate_lapis_ore": "2025-08-06 21:49:33 -0500"
+      "ignis": "2025-08-06 20:51:17 -0500"
     },
     "done": true
   },
@@ -11236,15 +11237,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2025-08-06 21:49:33 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
     "criteria": {
       "has_deepslate_lapis_ore": "2025-08-06 21:49:33 -0500"
     },
     "done": true
   },
-  "cataclysm:kill_maledictus": {
+  "cataclysm:find_sunken_city": {
     "criteria": {
-      "ignis": "2025-08-06 20:51:17 -0500"
+      "factory": "2025-08-09 15:08:30 -0500"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-08-09 15:15:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-08-09 15:12:51 -0500"
     },
     "done": true
   },
