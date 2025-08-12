@@ -90,6 +90,7 @@
       "minecraft:windswept_forest": "2025-08-02 20:29:43 -0500",
       "minecraft:jungle": "2025-07-30 01:30:36 -0500",
       "minecraft:ocean": "2025-07-30 00:06:00 -0500",
+      "minecraft:old_growth_spruce_taiga": "2025-08-11 21:11:29 -0500",
       "minecraft:snowy_beach": "2025-08-02 03:08:38 -0500",
       "minecraft:warm_ocean": "2025-07-31 21:26:18 -0500",
       "minecraft:deep_lukewarm_ocean": "2025-08-02 14:31:52 -0500",
@@ -11264,6 +11265,60 @@
   "cataclysm:kill_leviathan": {
     "criteria": {
       "ignis": "2025-08-09 15:15:38 -0500"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/summon_lich": {
+    "criteria": {
+      "summoned": "2025-08-11 20:49:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-08-11 21:13:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-08-11 21:06:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-08-11 21:06:55 -0500"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/white_bone_staff": {
+    "criteria": {
+      "white_bone_staff": "2025-08-11 20:55:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-08-11 21:13:12 -0500"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/vial_of_blood": {
+    "criteria": {
+      "vial_of_blood": "2025-08-11 20:45:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-08-11 21:13:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-08-11 21:13:13 -0500"
     },
     "done": true
   },
